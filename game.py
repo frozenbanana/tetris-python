@@ -80,6 +80,9 @@ def move_shape(direction):
         print(row)
     return f
 
+def new_and_cool_function():
+    return "This is really important!"
+
 
 def key_controller(key):
     f = state['frame']
